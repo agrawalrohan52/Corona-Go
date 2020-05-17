@@ -36,7 +36,7 @@ p{
 h3{
   text-align: center;
 }
-@media (max-width: 768px){
+@media (max-width: 992px){
   .rohan{
     width: 50%;
   }
